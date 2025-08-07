@@ -346,3 +346,7 @@ a{
 .card-artist card-img{
     border-radius: 50px;
 }
+
+.card-title {
+    text-align: center;
+}
